@@ -1,7 +1,9 @@
 # Stay Foolish Editor
 
 >2023 By rgzz666
+>
 >复刻参考：537文本编辑器v1.3
+>
 >遵循Anti537许可
 
 本编辑器默认使用**支持中文的**UTF-8
