@@ -10,7 +10,7 @@
 
 Stay Foolish Editor是537文本编辑器的复刻作品，旨在证明537文本编辑器的制作成本低廉。
 
-Stay Foolish Editor的取名取自537的座右铭Stay Hungry, Stay Foolish的后半段，因为537只做到了后半段的字面意思——当个傻子。
+Stay Foolish Editor的取名取自537的座右铭Stay Hungry, Stay Foolish的后半段，因为本人希望537不要只做到后半段的字面意思——当个傻子。
 
 **望537用心发展！**
 
