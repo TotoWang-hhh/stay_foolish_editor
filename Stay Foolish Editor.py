@@ -38,7 +38,7 @@ if len(sys.argv)>1:
     openfile(sys.argv[1])
 
 abouttxt='''Stay Foolish Editor
-2023 By rgzz666 | v1.0.2
+2023 By rgzz666 | v1.0.3
 复刻参考：537文本编辑器v1.3
 遵循Anti537许可
 
@@ -48,8 +48,8 @@ Stay Foolish Editor是537文本编辑器的复刻作品，
 旨在证明537文本编辑器的制作成本低廉。
 
 Stay Foolish Editor的取名取自537的座右铭
-Stay Hungry, Stay Foolish的后半段，因为537只
-做到了后半段的字面意思——当个傻子。
+Stay Hungry, Stay Foolish的后半段，因为本人
+希望537不要只做到后半段的字面意思——当个傻子。
 
 望537用心发展！'''
 
